@@ -3,7 +3,7 @@
 Basic portal for personel empolyee. People can login with their username and password ( I take from local mrp system, so you have yo create password due to it has not register screen). 
 ###### Users can see
 - their performance with chartjs, daily performances, avg performance
-- their holiday days,
+- their holiday entitled days,
 - Lessons, studies and tests
 
 ###### User can write
